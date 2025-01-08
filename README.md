@@ -3,18 +3,26 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is a Python-based Medical Clinic Management System designed to streamline patient and record management in a medical clinic. It was developed in three phases, progressing from a memory-based system to a persistent storage model, and finally incorporating a user-friendly graphical interface.
+
+Initially, the system implemented core functionalities such as login/logout, patient and note CRUD operations, and patient record management. The model was built with modularity in mind, ensuring clear responsibilities across the Controller, Patient, PatientRecord, and Note classes, and passing rigorous integration tests.
+
+In the second phase, data persistence was introduced using JSON for patient data and Pickle for patient records. The project adopted a Data Access Object (DAO) design pattern, preparing the system for future scalability with databases. Autosave functionality was added to maintain consistency, and custom exception handling improved reliability.
+
+The final phase introduced a GUI developed with PyQt6. The GUI adheres to the Model-View-Controller (MVC) pattern, ensuring separation of concerns. It features intuitive components like QTableView for patient lists and QPlainTextEdit for notes, providing a seamless user experience.
+
+This project demonstrates modular programming, robust testing, and effective design patterns, making it a reliable and extensible system for managing clinic operations.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python 3</b> 
-- <b>Diskpart</b>
+- <b>PyQt6</b>
 
 <h2>Environments Used </h2>
 
-- <b>Linux</b> (21H2)
+- <b>Linux</b> 
 
 <h2>Program walk-through:</h2>
 
