@@ -29,7 +29,8 @@ This project demonstrates modular programming, robust testing, and effective des
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/t8aJPQt">
+
 <br />
 <br />
 Select the disk:  <br/>
