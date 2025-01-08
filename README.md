@@ -22,7 +22,8 @@ This project demonstrates modular programming, robust testing, and effective des
 
 <h2>Environments Used </h2>
 
-- <b>Linux</b> 
+- <b>Linux</b>
+- <b>Git</b> 
 
 <h2>Program walk-through:</h2>
 
