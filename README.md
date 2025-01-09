@@ -27,16 +27,15 @@ This project demonstrates modular programming, robust testing, and effective des
 <h2>GUI walk-through:</h2>
 
 <p align="center">
-Main Menu: <br/>
-#<img src="https://imgur.com/t8aJPQt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-![Main Menu](main menu.png)
+Log in Menu: <br/>
+<img src="screenshots/login screen.png" alt="Project Screenshot" height="80%" width="80%">
  
 <br />
 
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="center">
+Main Menu: <br/>
+<img src="screenshots/login screen.png" alt="Project Screenshot" height="80%" width="80%">
+
 <br />
 
 
