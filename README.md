@@ -34,7 +34,51 @@ Log in Menu: <br/>
 
 <p align="center">
 Main Menu: <br/>
-<img src="screenshots/login screen.png" alt="Project Screenshot" height="80%" width="80%">
+<img src="screenshots/main menu.png" alt="Project Screenshot" height="80%" width="80%">
+
+<br />
+
+<br />
+
+<p align="center">
+Updating Patient: <br/>
+<img src="screenshots/updating patient.png" alt="Project Screenshot" height="80%" width="80%">
+
+<br />
+
+
+<br />
+
+<p align="center">
+Patient Menu: <br/>
+<img src="screenshots/patient menu.png" alt="Project Screenshot" height="80%" width="80%">
+
+<br />
+
+
+<br />
+
+<p align="center">
+Appointment Menu: <br/>
+<img src="screenshots/appointment menu.png" alt="Project Screenshot" height="80%" width="80%">
+
+<br />
+
+
+<br />
+
+<p align="center">
+Adding Note: <br/>
+<img src="screenshots/adding note.png" alt="Project Screenshot" height="80%" width="80%">
+
+<br />
+
+
+<br />
+
+<p align="center">
+Full Patient Record: <br/>
+<img src="screenshots/full patient record.png" alt="Project Screenshot" height="80%" width="80%">
 
 <br />
 
