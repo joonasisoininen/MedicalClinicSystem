@@ -28,7 +28,9 @@ This project demonstrates modular programming, robust testing, and effective des
 
 <p align="center">
 Main Menu: <br/>
-<img src="https://imgur.com/t8aJPQt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+#<img src="https://imgur.com/t8aJPQt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Main Menu](path/to/main menu.png)
+ 
 <br />
 
 <br />
