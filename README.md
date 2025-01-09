@@ -27,8 +27,9 @@ This project demonstrates modular programming, robust testing, and effective des
 <h2>GUI walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/t8aJPQt">
+Main Menu: <br/>
+<img src="https://imgur.com/t8aJPQt" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <br />
 <br />
