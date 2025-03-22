@@ -1,4 +1,4 @@
-<h1>Medical Clinic System</h1>
+<h1>MediSys</h1>
 
 
 <h2>Description</h2>
